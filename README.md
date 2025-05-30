@@ -1,1 +1,2 @@
-# quiz-application
+# brain-quiz
+quiz applicartion
